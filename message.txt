@@ -1,4 +1,8 @@
+ HEAD
 feature-improvement
 Change from feature branch
 Change from main
 main
+Message from main branch
+Message from feature branch
+ 84f826a (Revert "Change message in main")
